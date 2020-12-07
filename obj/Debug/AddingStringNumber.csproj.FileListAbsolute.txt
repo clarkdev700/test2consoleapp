@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\AddingStringNumber\bin\Debug\AddingStringNumber.exe.config
+C:\Users\pc\source\repos\AddingStringNumber\bin\Debug\AddingStringNumber.exe
+C:\Users\pc\source\repos\AddingStringNumber\bin\Debug\AddingStringNumber.pdb
+C:\Users\pc\source\repos\AddingStringNumber\obj\Debug\AddingStringNumber.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\AddingStringNumber\obj\Debug\AddingStringNumber.exe
+C:\Users\pc\source\repos\AddingStringNumber\obj\Debug\AddingStringNumber.pdb
+C:\Users\pc\source\repos\AddingStringNumber\obj\Debug\AddingStringNumber.csprojAssemblyReference.cache
